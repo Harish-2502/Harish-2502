@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 Harish here,
 
 
  - AI student @ Amrita Vishwa Vidyapeetham, Coimbatore. 
@@ -68,4 +68,7 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 </a>
 <a href="https://www.harish.kmn2522002@gmail.com"/>
   <img align="left" alt="Gmail" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<a href="https://www.instagram.com/adarshreddyash/">
+  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
