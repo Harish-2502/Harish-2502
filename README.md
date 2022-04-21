@@ -64,11 +64,11 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 
 
 <a href="https://www.linkedin.com/in/harish-k-054a16120/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.harish.kmn2522002@gmail.com"/>
-  <img align="left" alt="Gmail" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/harish_k25/">
+  <img align="left" alt="Instagram" width="22px" src="https://iconmonstr.com/instagram-14-svg/" />
 </a>
