@@ -1,4 +1,4 @@
-### Hello there 👋 Harish here,
+### Hello there 👋 I'm [Harish!],
 
 
  - AI student @ Amrita Vishwa Vidyapeetham, Coimbatore. 
