@@ -69,3 +69,6 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 <a href="https://www.harish.kmn2522002@gmail.com"/>
   <img align="left" alt="Gmail" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+<a href="https://www.instagram.com/harish_k25/>
+  <img align="left" alt="Gmail" width="23px" src="https://commons.wikimedia.org/wiki/File:Instagram_logo.svg" />
+</a>
