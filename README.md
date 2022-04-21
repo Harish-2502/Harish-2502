@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
 
- - AI student @ Amrita Vishwa Vidyapeetham. 
+ - AI student @ Amrita Vishwa Vidyapeetham, Coimbatore. 
 
-Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Blockchain and much more........
+Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Speech Processing and much more ........
 
-- 🔭 I’m currently working on Image Text Translation using OCR and Transformers
+- 🔭 I’m currently working on Image Classification and Object Detection Problems
 - 🌱 I’m currently learning Blockchain Technology
 
 
@@ -20,9 +20,9 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 >| MATLAB                       | ███████░ |  
 >| Scala                        | ███████░ |
 >| Julia                        | ███████░ |
->| JavaScript                   | ███████░ |
->| Java                         | ██████░░ | 
->| Spark                        | ███░░░░░ |
+>| Java                         | ███████░ |
+>| JavaScript                   | ██████░░ | 
+>|------------------------------|----------|
 <br>
 
 ### Skillsets
@@ -64,9 +64,9 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 ### Reach me
 
 
-<a href="https://www.linkedin.com/in/adhithan-pushparaj-542a87190/">
+<a href="https://www.linkedin.com/in/harish-k-054a16120/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.adhithanpushparaj@gmail.com">
+<a href="https://www.harish.kmn2522002@gmail.com"/>
   <img align="left" alt="Gmail" width="23px" src="assets/Gmail_logo.svg" />
 </a>
