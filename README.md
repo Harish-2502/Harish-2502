@@ -67,5 +67,5 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.harish.kmn2522002@gmail.com"/>
-  <img align="left" alt="Gmail" width="23px" src="https://logos-world.net/gmail-logo/" />
+  <img align="left" alt="Gmail" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
