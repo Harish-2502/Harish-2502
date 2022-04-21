@@ -70,5 +70,5 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.instagram.com/harish_k25/">
-  <img align="left" alt="Instagram" width="22px" src="https://iconmonstr.com/instagram-14-svg/" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
