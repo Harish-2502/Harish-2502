@@ -64,7 +64,7 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 
 
 <a href="https://www.linkedin.com/in/harish-kannan-054a16120/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinkedin-logo%2F&psig=AOvVaw0OC3etjRxJ5KUvbhDeyiBd&ust=1715308203786000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi7-pLD_4UDFQAAAAAdAAAAABAQ" />
 </a>
 <a href="https://www.harish.kmn2522002@gmail.com"/>
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
