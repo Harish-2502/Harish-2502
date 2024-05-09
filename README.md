@@ -63,7 +63,7 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 ### Reach me
 
 
-<a href="https://www.linkedin.com/in/harish-k-054a16120/">
+<a href="https://www.linkedin.com/in/harish-kannan-054a16120/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.harish.kmn2522002@gmail.com"/>
