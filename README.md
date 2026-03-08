@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Harish,
 
- - Data Science Fresher @ The University of Melbourne, Melbourne.
+ - Data Science Graduate @ The University of Melbourne, Melbourne.
  - AI Graduate @ Amrita Vishwa Vidyapeetham, Coimbatore. 
 
 Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Image Processing, Data Analytics, NLP, Speech Processing and much more ........
