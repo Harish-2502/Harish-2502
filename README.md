@@ -64,9 +64,9 @@ Data Science Enthusiast. Much intrested in Machine learning, Deep Learning, Imag
 
 
 <a href="https://www.linkedin.com/in/harish-kannan-054a16120/">
-  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" />
  </a>
-<a href="https://www.harish.kmn2522002@gmail.com"/>
+<a href="https://www.hkannan2502@gmail.com"/>
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.instagram.com/harish_k25/">
